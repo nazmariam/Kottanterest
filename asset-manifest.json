@@ -1,14 +1,14 @@
 {
-  "main.css": "/kottanterest/static/css/main.ae94a1c5.chunk.css",
-  "main.js": "/kottanterest/static/js/main.7046d7df.chunk.js",
-  "main.js.map": "/kottanterest/static/js/main.7046d7df.chunk.js.map",
-  "runtime~main.js": "/kottanterest/static/js/runtime~main.2d4cf9e1.js",
-  "runtime~main.js.map": "/kottanterest/static/js/runtime~main.2d4cf9e1.js.map",
-  "static/js/2.782dfb1e.chunk.js": "/kottanterest/static/js/2.782dfb1e.chunk.js",
-  "static/js/2.782dfb1e.chunk.js.map": "/kottanterest/static/js/2.782dfb1e.chunk.js.map",
-  "index.html": "/kottanterest/index.html",
-  "precache-manifest.72a5afd0d686426af504c17a5bc8e705.js": "/kottanterest/precache-manifest.72a5afd0d686426af504c17a5bc8e705.js",
-  "service-worker.js": "/kottanterest/service-worker.js",
-  "static/css/main.ae94a1c5.chunk.css.map": "/kottanterest/static/css/main.ae94a1c5.chunk.css.map",
-  "static/media/style.css": "/kottanterest/static/media/search.8d5ace9b.svg"
+  "main.css": "/nazmariam/kottanterest/static/css/main.ecf8fce4.chunk.css",
+  "main.js": "/nazmariam/kottanterest/static/js/main.7046d7df.chunk.js",
+  "main.js.map": "/nazmariam/kottanterest/static/js/main.7046d7df.chunk.js.map",
+  "runtime~main.js": "/nazmariam/kottanterest/static/js/runtime~main.4497e185.js",
+  "runtime~main.js.map": "/nazmariam/kottanterest/static/js/runtime~main.4497e185.js.map",
+  "static/js/2.782dfb1e.chunk.js": "/nazmariam/kottanterest/static/js/2.782dfb1e.chunk.js",
+  "static/js/2.782dfb1e.chunk.js.map": "/nazmariam/kottanterest/static/js/2.782dfb1e.chunk.js.map",
+  "index.html": "/nazmariam/kottanterest/index.html",
+  "precache-manifest.5e71699fd0e98b9835e24ba792708b95.js": "/nazmariam/kottanterest/precache-manifest.5e71699fd0e98b9835e24ba792708b95.js",
+  "service-worker.js": "/nazmariam/kottanterest/service-worker.js",
+  "static/css/main.ecf8fce4.chunk.css.map": "/nazmariam/kottanterest/static/css/main.ecf8fce4.chunk.css.map",
+  "static/media/style.css": "/nazmariam/kottanterest/static/media/search.8d5ace9b.svg"
 }
