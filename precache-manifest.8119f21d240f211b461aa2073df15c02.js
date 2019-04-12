@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/Kottanterest/static/js/runtime~main.2752dd91.js"
   },
   {
-    "revision": "82ac4601696cc2f6db8e",
-    "url": "/Kottanterest/static/js/main.e4ea9483.chunk.js"
+    "revision": "7e228f5dd51d9699ea5d",
+    "url": "/Kottanterest/static/js/main.084dc6c8.chunk.js"
   },
   {
     "revision": "ef8647fb50c0c88d03e1",
     "url": "/Kottanterest/static/js/2.782dfb1e.chunk.js"
   },
   {
-    "revision": "82ac4601696cc2f6db8e",
-    "url": "/Kottanterest/static/css/main.ca155576.chunk.css"
+    "revision": "7e228f5dd51d9699ea5d",
+    "url": "/Kottanterest/static/css/main.8f38dc92.chunk.css"
   },
   {
-    "revision": "bec19ef3fb16d5b95bc074792f1de654",
+    "revision": "1ace12d15b768f1b0a755fe30c8366a3",
     "url": "/Kottanterest/index.html"
   }
 ];
