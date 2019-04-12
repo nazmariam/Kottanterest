@@ -1,14 +1,14 @@
 {
-  "main.css": "/nazmariam/kottanterest/static/css/main.ecf8fce4.chunk.css",
-  "main.js": "/nazmariam/kottanterest/static/js/main.7046d7df.chunk.js",
-  "main.js.map": "/nazmariam/kottanterest/static/js/main.7046d7df.chunk.js.map",
-  "runtime~main.js": "/nazmariam/kottanterest/static/js/runtime~main.4497e185.js",
-  "runtime~main.js.map": "/nazmariam/kottanterest/static/js/runtime~main.4497e185.js.map",
-  "static/js/2.782dfb1e.chunk.js": "/nazmariam/kottanterest/static/js/2.782dfb1e.chunk.js",
-  "static/js/2.782dfb1e.chunk.js.map": "/nazmariam/kottanterest/static/js/2.782dfb1e.chunk.js.map",
-  "index.html": "/nazmariam/kottanterest/index.html",
-  "precache-manifest.5e71699fd0e98b9835e24ba792708b95.js": "/nazmariam/kottanterest/precache-manifest.5e71699fd0e98b9835e24ba792708b95.js",
-  "service-worker.js": "/nazmariam/kottanterest/service-worker.js",
-  "static/css/main.ecf8fce4.chunk.css.map": "/nazmariam/kottanterest/static/css/main.ecf8fce4.chunk.css.map",
-  "static/media/style.css": "/nazmariam/kottanterest/static/media/search.8d5ace9b.svg"
+  "main.css": "/nazmariam/Kottanterest/static/css/main.e550dd2e.chunk.css",
+  "main.js": "/nazmariam/Kottanterest/static/js/main.e4ea9483.chunk.js",
+  "main.js.map": "/nazmariam/Kottanterest/static/js/main.e4ea9483.chunk.js.map",
+  "runtime~main.js": "/nazmariam/Kottanterest/static/js/runtime~main.60640d47.js",
+  "runtime~main.js.map": "/nazmariam/Kottanterest/static/js/runtime~main.60640d47.js.map",
+  "static/js/2.782dfb1e.chunk.js": "/nazmariam/Kottanterest/static/js/2.782dfb1e.chunk.js",
+  "static/js/2.782dfb1e.chunk.js.map": "/nazmariam/Kottanterest/static/js/2.782dfb1e.chunk.js.map",
+  "index.html": "/nazmariam/Kottanterest/index.html",
+  "precache-manifest.3fbc467000b3e7e878350d9014c1a3e0.js": "/nazmariam/Kottanterest/precache-manifest.3fbc467000b3e7e878350d9014c1a3e0.js",
+  "service-worker.js": "/nazmariam/Kottanterest/service-worker.js",
+  "static/css/main.e550dd2e.chunk.css.map": "/nazmariam/Kottanterest/static/css/main.e550dd2e.chunk.css.map",
+  "static/media/style.css": "/nazmariam/Kottanterest/static/media/search.8d5ace9b.svg"
 }
