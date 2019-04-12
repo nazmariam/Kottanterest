@@ -1,14 +1,14 @@
 {
-  "main.css": "/nazmariam/Kottanterest/static/css/main.e550dd2e.chunk.css",
-  "main.js": "/nazmariam/Kottanterest/static/js/main.e4ea9483.chunk.js",
-  "main.js.map": "/nazmariam/Kottanterest/static/js/main.e4ea9483.chunk.js.map",
-  "runtime~main.js": "/nazmariam/Kottanterest/static/js/runtime~main.60640d47.js",
-  "runtime~main.js.map": "/nazmariam/Kottanterest/static/js/runtime~main.60640d47.js.map",
-  "static/js/2.782dfb1e.chunk.js": "/nazmariam/Kottanterest/static/js/2.782dfb1e.chunk.js",
-  "static/js/2.782dfb1e.chunk.js.map": "/nazmariam/Kottanterest/static/js/2.782dfb1e.chunk.js.map",
-  "index.html": "/nazmariam/Kottanterest/index.html",
-  "precache-manifest.3fbc467000b3e7e878350d9014c1a3e0.js": "/nazmariam/Kottanterest/precache-manifest.3fbc467000b3e7e878350d9014c1a3e0.js",
-  "service-worker.js": "/nazmariam/Kottanterest/service-worker.js",
-  "static/css/main.e550dd2e.chunk.css.map": "/nazmariam/Kottanterest/static/css/main.e550dd2e.chunk.css.map",
-  "static/media/style.css": "/nazmariam/Kottanterest/static/media/search.8d5ace9b.svg"
+  "main.css": "/Kottanterest/static/css/main.ca155576.chunk.css",
+  "main.js": "/Kottanterest/static/js/main.e4ea9483.chunk.js",
+  "main.js.map": "/Kottanterest/static/js/main.e4ea9483.chunk.js.map",
+  "runtime~main.js": "/Kottanterest/static/js/runtime~main.2752dd91.js",
+  "runtime~main.js.map": "/Kottanterest/static/js/runtime~main.2752dd91.js.map",
+  "static/js/2.782dfb1e.chunk.js": "/Kottanterest/static/js/2.782dfb1e.chunk.js",
+  "static/js/2.782dfb1e.chunk.js.map": "/Kottanterest/static/js/2.782dfb1e.chunk.js.map",
+  "index.html": "/Kottanterest/index.html",
+  "precache-manifest.90c7a0ce5aceb331c76574ce30f7ec47.js": "/Kottanterest/precache-manifest.90c7a0ce5aceb331c76574ce30f7ec47.js",
+  "service-worker.js": "/Kottanterest/service-worker.js",
+  "static/css/main.ca155576.chunk.css.map": "/Kottanterest/static/css/main.ca155576.chunk.css.map",
+  "static/media/style.css": "/Kottanterest/static/media/search.8d5ace9b.svg"
 }

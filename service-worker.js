@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nazmariam/Kottanterest/precache-manifest.3fbc467000b3e7e878350d9014c1a3e0.js"
+  "/Kottanterest/precache-manifest.90c7a0ce5aceb331c76574ce30f7ec47.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/nazmariam/Kottanterest/index.html", {
+workbox.routing.registerNavigationRoute("/Kottanterest/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
