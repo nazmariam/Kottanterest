@@ -1,1 +1,2 @@
-# react-basics
+# Kottanterest
+## Like Pinterest but on React
