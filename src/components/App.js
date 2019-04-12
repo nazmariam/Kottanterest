@@ -48,7 +48,7 @@ class App extends Component{
         return (
             <>
                 <Header handleSubmit={this.performSearch}/>
-                <ImageList images={this.state && list}/>
+                {/*<ImageList images={this.state && list}/>*/}
             </>
         )
     }

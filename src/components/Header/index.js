@@ -27,7 +27,7 @@ export const Header =({handleSubmit}) =>{
                 <div className={'search-form'}>
                     <form action="" onChange={onSubmit}>
                         <label>
-                            <input name='search' className={'search-input'} type="text" placeholder={"Search by artist's name"}/>
+                            <input name='search' className={'search-input'} type="text" placeholder={"Search"}/>
                         </label>
                     </form>
 
@@ -41,4 +41,4 @@ export const Header =({handleSubmit}) =>{
             </header>
         )
 
-}
+};
