@@ -24,5 +24,8 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage" : "http://nazmariam.github.io/kottanterest"
+  "repository": "https://github.com/nazmariam/kottanterest.git",
+  "author": "nazmariam <fedirko.mary@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/nazmariam/kottanterest#readme"
 }
