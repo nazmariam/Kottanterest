@@ -1,5 +1,4 @@
 import React, {Component} from "react";
-// import Unsplash, {toJson} from "unsplash-js";
 import {Header} from './Header'
 import ImageList from './ImageList';
 import {getPhotos} from "../api";
@@ -11,7 +10,13 @@ class App extends Component{
     };
     performSearch = (searchName) => {
         const list = this.state.fullList;
-        const result = list.filter((item)=>{return item.user.name.includes(searchName)})
+        let result = [];
+        if(searchName!=='decrease'&& searchName!=='increase'){
+            result = list.filter((item)=>{return item.user.name.includes(searchName)})
+        }else if (searchName==='decrease'){
+            result = list.sort((a,b)=>{return b.likes-a.likes})
+        }else if (searchName==='increase'){
+            result = list.sort((a,b)=>{return a.likes-b.likes})}
         this.setState({
             list:result,
         })

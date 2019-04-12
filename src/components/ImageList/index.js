@@ -8,8 +8,6 @@ export default  class ImageList extends Component {
     };
 
     render(){
-        console.log(this.props);
-
         const imageElements = this.props.images.map((item) => {
             const style = {animation: 'rt '+Math.random()+'s linear'};
             return <div key={item.id} className="card" style={style}>
@@ -23,6 +21,7 @@ export default  class ImageList extends Component {
                         <a className="user-link" href={item.user.links.html} target={'_blank'}>
                             {item.user.name}
                         </a>
+                        <a className={'unsplash-link'} href={'https://unsplash.com/'} target={'_blank'}>on Unsplash</a>
                     </div>
         });
         return (

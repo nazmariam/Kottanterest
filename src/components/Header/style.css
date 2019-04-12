@@ -28,7 +28,6 @@ html{
 }
 label{
   position: relative;
-
 }
 .search-input{
   width: 100%;
@@ -56,4 +55,23 @@ label:before{
 }
 .submit-button{
   width: 20%;
+}
+.sorting-buttons{
+  margin: 0 32px;
+}
+#decrease,
+#increase{
+  color: #fff;
+  background-color: #8080807a;
+  border: 2px dotted #ffffff;
+  border-radius: 50%;
+  font-size: 2em;
+  margin: 0 8px;
+  width: 40px;
+  height: 40px;
+  line-height: 32px;
+}
+#decrease:hover,
+#increase:hover{
+  background-color: rgba(128, 128, 128, 0.72);
 }

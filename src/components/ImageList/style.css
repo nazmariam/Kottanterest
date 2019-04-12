@@ -43,11 +43,25 @@
   line-height: 32px;
   opacity: 0;
 }
+.unsplash-link{
+  color: #cecece;
+  text-decoration: none;
+  position: absolute;
+  bottom: 16px;
+  right: 16px;
+  padding: 8px;
+  font-size: 0.9em;
+  opacity: 0;
+}
 .card:hover > .user-link{
   opacity: 1;
   transition: opacity .15s ease-in-out;
 }
 .card:hover > .rate{
+  opacity: 1;
+  transition: opacity .15s ease-in-out;
+}
+.card:hover > .unsplash-link{
   opacity: 1;
   transition: opacity .15s ease-in-out;
 }
