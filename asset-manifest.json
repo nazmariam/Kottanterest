@@ -1,14 +1,14 @@
 {
-  "main.css": "/Kottanterest/static/css/main.8f38dc92.chunk.css",
-  "main.js": "/Kottanterest/static/js/main.5a4703d3.chunk.js",
-  "main.js.map": "/Kottanterest/static/js/main.5a4703d3.chunk.js.map",
+  "main.css": "/Kottanterest/static/css/main.06d27d0e.chunk.css",
+  "main.js": "/Kottanterest/static/js/main.68f06620.chunk.js",
+  "main.js.map": "/Kottanterest/static/js/main.68f06620.chunk.js.map",
   "runtime~main.js": "/Kottanterest/static/js/runtime~main.2752dd91.js",
   "runtime~main.js.map": "/Kottanterest/static/js/runtime~main.2752dd91.js.map",
   "static/js/2.782dfb1e.chunk.js": "/Kottanterest/static/js/2.782dfb1e.chunk.js",
   "static/js/2.782dfb1e.chunk.js.map": "/Kottanterest/static/js/2.782dfb1e.chunk.js.map",
   "index.html": "/Kottanterest/index.html",
-  "precache-manifest.ef69408edaa1ff1029cfde343a7d393d.js": "/Kottanterest/precache-manifest.ef69408edaa1ff1029cfde343a7d393d.js",
+  "precache-manifest.c61ef3c8802d122e19f03933d61cf3c7.js": "/Kottanterest/precache-manifest.c61ef3c8802d122e19f03933d61cf3c7.js",
   "service-worker.js": "/Kottanterest/service-worker.js",
-  "static/css/main.8f38dc92.chunk.css.map": "/Kottanterest/static/css/main.8f38dc92.chunk.css.map",
+  "static/css/main.06d27d0e.chunk.css.map": "/Kottanterest/static/css/main.06d27d0e.chunk.css.map",
   "static/media/style.css": "/Kottanterest/static/media/search.8d5ace9b.svg"
 }
