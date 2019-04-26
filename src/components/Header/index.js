@@ -5,11 +5,11 @@ import "./style.css";
 
 class Header extends Component {
   onClick = ({ target }) => {
-    this.props.handleSubmit(target.getAttribute("data-sort"));
+    this.props.handleSearch(target.getAttribute("data-sort"));
   };
   handleChange = event => {
     event.preventDefault();
-    this.props.handleSubmit(event.target.value.toLowerCase());
+    this.props.handleSearch(event.target.value.toLowerCase());
   };
 
   render() {

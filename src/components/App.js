@@ -36,7 +36,7 @@ class App extends Component {
     const {list} = this.state;
     return (
       <>
-        <Header handleSubmit={this.performSearch} />
+        <Header handleSearch={this.performSearch} />
         <ImageList images={list} />
       </>
     );
